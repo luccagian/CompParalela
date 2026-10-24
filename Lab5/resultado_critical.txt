@@ -1,0 +1,126 @@
+===== CRITICAL - 1 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: critical
+Threads: 1
+Elementos: 268435456
+
+Execucao  1: 0.121906935 segundos
+Execucao  2: 0.095955999 segundos
+Execucao  3: 0.098830281 segundos
+Execucao  4: 0.128032427 segundos
+Execucao  5: 0.104557772 segundos
+Execucao  6: 0.093884430 segundos
+Execucao  7: 0.103450365 segundos
+Execucao  8: 0.098126067 segundos
+Execucao  9: 0.101583461 segundos
+Execucao 10: 0.092965354 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.103929309 segundos
+Verificacao: CORRETO
+===== CRITICAL - 2 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: critical
+Threads: 2
+Elementos: 268435456
+
+Execucao  1: 0.146328431 segundos
+Execucao  2: 0.100525376 segundos
+Execucao  3: 0.100944357 segundos
+Execucao  4: 0.106419007 segundos
+Execucao  5: 0.103086887 segundos
+Execucao  6: 0.099670580 segundos
+Execucao  7: 0.114665479 segundos
+Execucao  8: 0.140594136 segundos
+Execucao  9: 0.121110206 segundos
+Execucao 10: 0.129014124 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.116235858 segundos
+Verificacao: CORRETO
+===== CRITICAL - 3 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: critical
+Threads: 3
+Elementos: 268435456
+
+Execucao  1: 0.101849918 segundos
+Execucao  2: 0.100291231 segundos
+Execucao  3: 0.111045662 segundos
+Execucao  4: 0.101453458 segundos
+Execucao  5: 0.099880300 segundos
+Execucao  6: 0.102142303 segundos
+Execucao  7: 0.107868633 segundos
+Execucao  8: 0.099999256 segundos
+Execucao  9: 0.102207263 segundos
+Execucao 10: 0.101765260 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.102850328 segundos
+Verificacao: CORRETO
+===== CRITICAL - 4 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: critical
+Threads: 4
+Elementos: 268435456
+
+Execucao  1: 0.102168643 segundos
+Execucao  2: 0.099946415 segundos
+Execucao  3: 0.101842153 segundos
+Execucao  4: 0.101713253 segundos
+Execucao  5: 0.099994124 segundos
+Execucao  6: 0.099622209 segundos
+Execucao  7: 0.100626594 segundos
+Execucao  8: 0.106974295 segundos
+Execucao  9: 0.100944308 segundos
+Execucao 10: 0.110555848 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.102438784 segundos
+Verificacao: CORRETO
+===== CRITICAL - 5 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: critical
+Threads: 5
+Elementos: 268435456
+
+Execucao  1: 0.107190679 segundos
+Execucao  2: 0.114127883 segundos
+Execucao  3: 0.139204963 segundos
+Execucao  4: 0.103593582 segundos
+Execucao  5: 0.103073632 segundos
+Execucao  6: 0.126144335 segundos
+Execucao  7: 0.112498726 segundos
+Execucao  8: 0.115249018 segundos
+Execucao  9: 0.102562135 segundos
+Execucao 10: 0.104109968 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.112775492 segundos
+Verificacao: CORRETO
+===== CRITICAL - 6 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: critical
+Threads: 6
+Elementos: 268435456
+
+Execucao  1: 0.102315856 segundos
+Execucao  2: 0.109108477 segundos
+Execucao  3: 0.125022771 segundos
+Execucao  4: 0.109196253 segundos
+Execucao  5: 0.110866405 segundos
+Execucao  6: 0.112181152 segundos
+Execucao  7: 0.105211061 segundos
+Execucao  8: 0.102048358 segundos
+Execucao  9: 0.102599217 segundos
+Execucao 10: 0.099943269 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.107849282 segundos
+Verificacao: CORRETO

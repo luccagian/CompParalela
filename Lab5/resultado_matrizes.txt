@@ -1,0 +1,78 @@
+===== 1 THREADS =====
+
+=== EXERCICIO 3 - MULTIPLICACAO DE MATRIZES ===
+Versao: parallel
+Threads: 1
+Ordem: 512 x 512
+
+Execucao 1: 0.120724198 segundos
+Execucao 2: 0.120545844 segundos
+Execucao 3: 0.119035826 segundos
+
+Checksum: 29150103.1402697526
+Tempo medio: 0.120101956 segundos
+===== 2 THREADS =====
+
+=== EXERCICIO 3 - MULTIPLICACAO DE MATRIZES ===
+Versao: parallel
+Threads: 2
+Ordem: 512 x 512
+
+Execucao 1: 0.066968169 segundos
+Execucao 2: 0.065828282 segundos
+Execucao 3: 0.075084378 segundos
+
+Checksum: 29150103.1402697526
+Tempo medio: 0.069293610 segundos
+===== 3 THREADS =====
+
+=== EXERCICIO 3 - MULTIPLICACAO DE MATRIZES ===
+Versao: parallel
+Threads: 3
+Ordem: 512 x 512
+
+Execucao 1: 0.073465429 segundos
+Execucao 2: 0.067957826 segundos
+Execucao 3: 0.070628722 segundos
+
+Checksum: 29150103.1402697526
+Tempo medio: 0.070683992 segundos
+===== 4 THREADS =====
+
+=== EXERCICIO 3 - MULTIPLICACAO DE MATRIZES ===
+Versao: parallel
+Threads: 4
+Ordem: 512 x 512
+
+Execucao 1: 0.073052237 segundos
+Execucao 2: 0.080770462 segundos
+Execucao 3: 0.082515098 segundos
+
+Checksum: 29150103.1402697526
+Tempo medio: 0.078779266 segundos
+===== 5 THREADS =====
+
+=== EXERCICIO 3 - MULTIPLICACAO DE MATRIZES ===
+Versao: parallel
+Threads: 5
+Ordem: 512 x 512
+
+Execucao 1: 0.082597750 segundos
+Execucao 2: 0.073564652 segundos
+Execucao 3: 0.066372537 segundos
+
+Checksum: 29150103.1402697526
+Tempo medio: 0.074178313 segundos
+===== 6 THREADS =====
+
+=== EXERCICIO 3 - MULTIPLICACAO DE MATRIZES ===
+Versao: parallel
+Threads: 6
+Ordem: 512 x 512
+
+Execucao 1: 0.073561207 segundos
+Execucao 2: 0.067524959 segundos
+Execucao 3: 0.076281613 segundos
+
+Checksum: 29150103.1402697526
+Tempo medio: 0.072455926 segundos

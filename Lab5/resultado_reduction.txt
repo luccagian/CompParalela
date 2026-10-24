@@ -1,0 +1,126 @@
+===== REDUCTION - 1 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: reduction
+Threads: 1
+Elementos: 268435456
+
+Execucao  1: 0.109810886 segundos
+Execucao  2: 0.095268504 segundos
+Execucao  3: 0.122558001 segundos
+Execucao  4: 0.098570629 segundos
+Execucao  5: 0.093902872 segundos
+Execucao  6: 0.102292093 segundos
+Execucao  7: 0.096781550 segundos
+Execucao  8: 0.092822586 segundos
+Execucao  9: 0.098672257 segundos
+Execucao 10: 0.091111794 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.100179117 segundos
+Verificacao: CORRETO
+===== REDUCTION - 2 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: reduction
+Threads: 2
+Elementos: 268435456
+
+Execucao  1: 0.096869952 segundos
+Execucao  2: 0.096410355 segundos
+Execucao  3: 0.098963200 segundos
+Execucao  4: 0.098195006 segundos
+Execucao  5: 0.164878075 segundos
+Execucao  6: 0.103727352 segundos
+Execucao  7: 0.099288777 segundos
+Execucao  8: 0.144651417 segundos
+Execucao  9: 0.113823086 segundos
+Execucao 10: 0.109042323 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.112584954 segundos
+Verificacao: CORRETO
+===== REDUCTION - 3 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: reduction
+Threads: 3
+Elementos: 268435456
+
+Execucao  1: 0.101466903 segundos
+Execucao  2: 0.096605549 segundos
+Execucao  3: 0.099735303 segundos
+Execucao  4: 0.098969080 segundos
+Execucao  5: 0.096928822 segundos
+Execucao  6: 0.097244020 segundos
+Execucao  7: 0.097090692 segundos
+Execucao  8: 0.106708258 segundos
+Execucao  9: 0.124809912 segundos
+Execucao 10: 0.106709920 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.102626846 segundos
+Verificacao: CORRETO
+===== REDUCTION - 4 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: reduction
+Threads: 4
+Elementos: 268435456
+
+Execucao  1: 0.111817994 segundos
+Execucao  2: 0.096974045 segundos
+Execucao  3: 0.098159640 segundos
+Execucao  4: 0.098340047 segundos
+Execucao  5: 0.096617661 segundos
+Execucao  6: 0.098866248 segundos
+Execucao  7: 0.098195307 segundos
+Execucao  8: 0.099601551 segundos
+Execucao  9: 0.097992858 segundos
+Execucao 10: 0.097014963 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.099358031 segundos
+Verificacao: CORRETO
+===== REDUCTION - 5 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: reduction
+Threads: 5
+Elementos: 268435456
+
+Execucao  1: 0.108824967 segundos
+Execucao  2: 0.097712585 segundos
+Execucao  3: 0.100475815 segundos
+Execucao  4: 0.096914966 segundos
+Execucao  5: 0.099004908 segundos
+Execucao  6: 0.097588514 segundos
+Execucao  7: 0.096919545 segundos
+Execucao  8: 0.099603212 segundos
+Execucao  9: 0.108482540 segundos
+Execucao 10: 0.099125280 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.100465233 segundos
+Verificacao: CORRETO
+===== REDUCTION - 6 THREADS =====
+
+=== EXERCICIO 2 - SOMATORIO ===
+Versao: reduction
+Threads: 6
+Elementos: 268435456
+
+Execucao  1: 0.097585175 segundos
+Execucao  2: 0.105436364 segundos
+Execucao  3: 0.099475636 segundos
+Execucao  4: 0.114160997 segundos
+Execucao  5: 0.124038101 segundos
+Execucao  6: 0.117744315 segundos
+Execucao  7: 0.128670660 segundos
+Execucao  8: 0.104221717 segundos
+Execucao  9: 0.110502306 segundos
+Execucao 10: 0.096771901 segundos
+
+Resultado da soma: 135291462313
+Tempo medio: 0.109860717 segundos
+Verificacao: CORRETO
