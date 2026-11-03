@@ -1,0 +1,25 @@
+Versao sequencial
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.000629 segundos
+Versao sequencial
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.000370 segundos
+Versao sequencial
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.000266 segundos
+Versao sequencial
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.000388 segundos
+Versao sequencial
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.000275 segundos

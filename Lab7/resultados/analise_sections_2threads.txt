@@ -1,0 +1,45 @@
+Inicializando dados...
+
+--- Versao Sections ---
+Minimo: -500
+Maximo: 499
+Soma: -52548800
+Media: -0.50
+Desvio padrao: 288.67
+Tempo: 0.166624 segundos
+Inicializando dados...
+
+--- Versao Sections ---
+Minimo: -500
+Maximo: 499
+Soma: -52548800
+Media: -0.50
+Desvio padrao: 288.67
+Tempo: 0.198650 segundos
+Inicializando dados...
+
+--- Versao Sections ---
+Minimo: -500
+Maximo: 499
+Soma: -52548800
+Media: -0.50
+Desvio padrao: 288.67
+Tempo: 0.184200 segundos
+Inicializando dados...
+
+--- Versao Sections ---
+Minimo: -500
+Maximo: 499
+Soma: -52548800
+Media: -0.50
+Desvio padrao: 288.67
+Tempo: 0.174095 segundos
+Inicializando dados...
+
+--- Versao Sections ---
+Minimo: -500
+Maximo: 499
+Soma: -52548800
+Media: -0.50
+Desvio padrao: 288.67
+Tempo: 0.181653 segundos

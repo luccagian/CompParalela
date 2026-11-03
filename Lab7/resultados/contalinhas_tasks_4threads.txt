@@ -1,0 +1,25 @@
+Versao OpenMP Tasks
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.005725 segundos
+Versao OpenMP Tasks
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.002261 segundos
+Versao OpenMP Tasks
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.004298 segundos
+Versao OpenMP Tasks
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.001176 segundos
+Versao OpenMP Tasks
+Diretorio: .
+
+Total de linhas: 544
+Tempo: 0.001835 segundos

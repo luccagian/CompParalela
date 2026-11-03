@@ -1,0 +1,30 @@
+
+--- Versao Sections ---
+Particulas: 10485760
+Posicao 0: -0.0500 -0.0400 -0.0300
+Velocidade 0: -5.0000 -4.0981 -3.0000
+Tempo: 0.216744 segundos
+
+--- Versao Sections ---
+Particulas: 10485760
+Posicao 0: -0.0500 -0.0400 -0.0300
+Velocidade 0: -5.0000 -4.0981 -3.0000
+Tempo: 0.247520 segundos
+
+--- Versao Sections ---
+Particulas: 10485760
+Posicao 0: -0.0500 -0.0400 -0.0300
+Velocidade 0: -5.0000 -4.0981 -3.0000
+Tempo: 0.224748 segundos
+
+--- Versao Sections ---
+Particulas: 10485760
+Posicao 0: -0.0500 -0.0400 -0.0300
+Velocidade 0: -5.0000 -4.0981 -3.0000
+Tempo: 0.233588 segundos
+
+--- Versao Sections ---
+Particulas: 10485760
+Posicao 0: -0.0500 -0.0400 -0.0300
+Velocidade 0: -5.0000 -4.0981 -3.0000
+Tempo: 0.213485 segundos
